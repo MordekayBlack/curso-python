@@ -1,0 +1,45 @@
+exercicio 001
+    # Crie um programa que escreva na tela Ola Mundo!
+    Ultilização print para imprimir messagem na tela
+    função format e suas ultilizações
+    coverter str em int com a função int()
+exercicio 002
+    # Faça um programa que leia um nome de uma pessoa e mostre uma mensagem de boas vindas
+    comandos: print , input
+    converter str em int
+    retorno do typo da variavel
+    verifica o typo que foi digitado is
+exercicio 003
+    #crie um programa que leia dois numeros e mostre a soma entre eles
+
+exercicio 004
+    #faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas informaçoes possiveis sobre ele
+    Neste exercicio faz o uso do metodos var.is
+
+exercicio 005
+    Faça um programa que leia um numero inteiro e mostre na tela seu sucessor e seu antecessor
+
+exercicio 006
+    Crie um algoritimo que leia um numero e mostre o dobro,o triplo e a raiz quadrada
+
+exercio 007
+    Desenvolva um programa que leia 4 notas de um aluno ,calcule e mostre sua media
+
+exercio 008
+    crie um programa que leia um valor em metros e mostre o resultado convertido em centimetros e em milemetros
+
+exercicio 009
+    Faça um programa que leia um numero inteiro qualquer e mostre sua taboda
+
+exercicio 010
+    crie um programa que leia quantos ele tem na carteira e mostre quantos dolares ele pode comprar 1dolar=3,27
+
+exercicio 011
+    Faça um programa que leia a largura e a altura de uma parede em metros e calcule a sua area e a quantidade de
+    tinta nescessaria para pintar a parede ,sabendo que cada litro de tinta pinta uma area de 2m²
+
+exercico 012
+    Faça um programa que leia o preço de um produto e mostre seu novo preço com 5% de desconto
+
+exercicio 013
+    Faça um programa que leia um salario de um funcionaio e mostre o valor do novo salario com aumento de 15%
