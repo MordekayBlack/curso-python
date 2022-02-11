@@ -3,5 +3,5 @@
 v = float(input('Digite o valor do produto >>R$ '))
 desc = int(input('Digite o valor do desconto(%) >> '))
 
-valDesc = v - (v / 100 * desc)
+valDesc = v - (v * desc / 100)
 print(f'O valor inicial do produto = R${v} ,com o desconto de {desc}% o produto passara a custar R${valDesc}')

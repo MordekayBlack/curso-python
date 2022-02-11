@@ -6,4 +6,4 @@ n3 = float(input('Digite a terceira nota >>  '))
 n4 = float(input('Digite a quarta nota >>  '))
 
 media = (n1+n2+n3+n4)/4
-print(f'A media calculada entre a 4 notas foi {media}')
+print(f'A media calculada entre a 4 notas foi {media:.1f}')

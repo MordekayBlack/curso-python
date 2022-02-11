@@ -5,5 +5,5 @@
 print(f'{" Tabuada ":=^50}')
 v = int(input('Digite um numero >> '))
 for n in range(0,11):
-    print(f'{v} X {n} = {v * n }')
+    print(f'{v} X {n:<2} = {v * n }')
 

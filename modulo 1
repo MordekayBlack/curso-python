@@ -73,3 +73,34 @@ end='' => coloca os prints na mesma linha
 \n => quebra a linha de um print
 print('Esta é a pirmeira linha ', end='')
 print('Esta é a segunda linha')
+
+
+__________________________________________________________________________________________________________
+                                Porcetagem
+valor * porcetagem / 100
+100 * 10 / 100 (10 por cento de 100)
+
+# aumento em porcetagem
+valor + (valor  * percento / 100)
+
+# desconto em percento
+valor - ( valor * percento / 100)
+
+---------------------------------------------------------------------------------------------------------
+alula teorica 08 - Ultilizando modulos
+
+# importação de moulos
+import nome_modulo => importa tudo
+from nome_modulo import nome_metodo => importa somente o metudo
+
+math => biblioteca python para calculos matematicos
+# importando toda biblioteca math
+import math
+num = int(input('Digite um numero'))
+raiz = math.sqrt(num)
+print(raiz)
+
+# importando somente o metodo raiz quadrada
+from math import sqrt
+num = int(input('Digite um numero'))
+raiz = sqrt(num)
