@@ -104,3 +104,55 @@ print(raiz)
 from math import sqrt
 num = int(input('Digite um numero'))
 raiz = sqrt(num)
+
+
+----------------------------------------------------------------------------------------------------------------------
+aulateorica 09 -                        Manipulando texto
+
+# Fatiamento de string
+
+frase[9] => pega o cractere na posição 9
+frase[9:13] => pega um conjunto de caractere começãndo da posiçõa 9 ate a posiçõa 12(obs: a posição 13 ele nao pega)
+frase[9:] => pega da posição 9 ate o final da string
+frase[:9] => pega desdo o inicio da string ate a posição 8
+frase[9:8:2] => pega da posição 9 ate a posição 7 pulando de 2 em 2
+frase[9::3] => pega desde a posião 9 ate o final pulando de 3 em 3
+
+# Analise de string
+
+len(frase) => retorna o tamanho/comprimento da string
+frase.count('o') => conta quantos vezes aparece o caractere "o" na string
+fase.count('o',0,13) => conta ja fazendo um fatiamento, da posiçõa 0 ate a posição 13
+frase.find('deo') => retorna em qual posição foi encontrado o conjunto de caractere,se nao encontrar retorna -1
+'curso' in frase => verifica se existe a palavra curso na variavel frase ,retorna true/false
+
+# Transformação de string
+
+frase.replace('python','android') => verifica se existe a palavra python e troca pela palavra android
+frase.upper() => coloca toda string em maiuculo
+frase.lower() => coloca toda string em minuscula
+frase.capitalize() => coloca somente o primeiro caractere da string para maiusculo
+frase.title() => pega todas as palavras da strings e colocar a primeira letra em maiuscula
+frase.strip() => remove os espaços no começo e no final da string
+frase.rstrip() => remove os espaços a direita
+frase.lstrip() => remove os espaços vazios a esquerda
+
+#divisão de string
+
+frase.split() => divide a string em partes gerando uma lista
+
+
+# junção de strings
+'-'.join(frase) => pega uma lista e cria uma string separando por '-'
+' '.join(frase) => pega uma lista e cria uma string separado por ' ' espaço
+'/'.join(frase) => pega uma lista e cria uma string separando por /
+
+# aninhando comandos
+
+print(frase.upper().strip())
+
+---------------------------------------------------------------------------------------------------------------
+aula 10                             estrutura de condição
+
+#condição simplificada
+print('Carro novo' if tempo <= 3 else 'Carro velho') => parecido com operador ternario

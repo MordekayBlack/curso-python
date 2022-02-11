@@ -44,5 +44,77 @@ exercico 012
 exercicio 013
     Faça um programa que leia um salario de um funcionaio e mostre o valor do novo salario com aumento de 15%
 
-exercicio 15 e 16 eu nao fiz
+exercicio 14 e 15 eu nao fiz
+
+exercicio 016
+    Faça um programa que leia um numero real e mostre na tela sua porção inteira
+
+exercicio 017
+    Façã um progrema que leia o cumprimento do cateto oposto e do cateto adjacente de um triagulo,caucule e mostre
+    o cumprimento da hipotenuza
+
+exercicio 018
+    Faça um programa que leia um angulo qualquer e mostre na tela o valor do seno,conseno e tangente desse angulo
+
+exercico 019
+    Um professor quer sortear um dos seus quatros alunos para apagar o quadro,faça um programa que ajude ele,leia o nome desses
+    quatros alunos e mostre na tela o nome do escolhido aleatoriamente
+
+exercicio 020
+    O mesmo professor do exercicio anterior quer sortear a ordem de apresentação de um trabalho dos alunos,
+    faça um programa que leia o nome dos quatros alunos e mostre a ordem que os alunos iram apresentar os trabalhos.
+
+exercico 021
+    Faça um programa em python que abra e reproduza um arquivo mp3
+    este exercicio nao ahei nescessario fazer
+
+
+# Manipulação e Transformação de string
+exercicio 022
+    Crie um program que leia um nome completo de uma pessoa e mostre o nome com toda as letras em maiuscula,o nome com todas as letras em minuscula,quantas letras tem
+    o nome sem considerar espaços,quantas letras tem o primeiro nome
+
+exercicio 023
+    Faça um programa que leia de 0 a 9999 e mostre na tela cada um dos digitos separados EX: 8945 milhar:8 centena:9 dezena:4 unidade:5
+
+exercicio 024
+    Crie um programa que leia um nome de uma cidade e mostre na tela se ela começa ou nao com 'Santo'
+
+exercicio 025
+    Crie um programa que leia um nome de uma pessoa e diga se ela posue 'Silva' no nome
+
+exercicio 026
+    Faça um programa que leia uma frase pelo teclado e mostre:quantas vezes aparece a letra 'a',em que posição ela aparece a primeira vez,em que posição ela aparece a ultima vez
+
+exercicio 027
+    Faça um programa que leia o nome completo de uma pessoa,mostrando em seguida o primeiro e ultimo nome separadamente EX: Primeiro: Leonardo Ultimo: Oliveira
+
+#estrutura de condição - aula 10
+
+exercicio 028
+    Escreva um programa que faça o computdor pensar,em um numero inteiro entre 0 a 5, e peça o usuario tentar adivinhar qual foi o numero escolhido pelo computador
+    O programa deve escrever na tela se o usuario venceu ou perdeu
+
+exercicio 029
+    Escreva um programa que leia a velocidade de um carro,se ele ultrapassar 80km ele sera multado,a multa sera de R$7,00 por cada km exedido
+
+exercicio 030
+    Crie um programa que leia um numero inteiro e mostre na tela se ele é par ou impar
+
+exercicio 031
+    Desenvolva um programa que pergunte a distancia de uma viagem em km,caucule o preço da passagem cobrando R$0,50 centavos por viagem ate 200km,
+    e R$0,45 para viagem acima de 200km
+
+exercicio 032
+    Faça um programa que leia um ano qualquer e fale se ele é bissexto
+
+exercicio 033
+    Faça um programa que leia 3 numeros e mostre qual é o maior e qual é o menor
+
+exercicio 034
+    Escreva um programa que pergunte o salario de um funcionario e caucule seu aumento,para salario superior a R$1.250,00 caucule um aumento de 10%,
+    para salario inferior caucule um aumento de 15%
+
+exercicio 035
+    Desenvolva um programa que leia o comprimento de 3 retas e diga se elas podem ou nao formar um triagulo
 
