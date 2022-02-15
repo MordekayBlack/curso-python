@@ -1,0 +1,6 @@
+# condiçoes aninhadas
+if,elif,else
+# Primeiro nao pode existir um elif sem um if
+# Segundo o if pode conter quantos elif forem nescessario
+#elif pode conter um else ou nenhun else
+#else so sera execultado se nenhuma das condiçoes forem atendidas

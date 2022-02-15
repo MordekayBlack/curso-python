@@ -118,3 +118,66 @@ exercicio 034
 exercicio 035
     Desenvolva um programa que leia o comprimento de 3 retas e diga se elas podem ou nao formar um triagulo
 
+#modulo 2
+
+exercicio 036
+    Escreva um programa para aprovar um emprestimo bancario para a compra de uma casa.O programa vai perguntar o valor da casa,
+    o salario do comprador e em quantos anos ele vai pagar.Calcule o valor da prestação mensal sabendo que ela nao pode exeder 30% do salario,ou entao
+    o emprestimo sera negado.
+
+exercicio 037
+    Escreva um programa que leia um numero inteiro qualquer,e peça para o usuario escolher qual a base de conversao,
+    1:binario , 2:octal , 3:hexadecimal
+
+exercicio 038
+    Escreva um programa que leia dois numeros inteiros e compare-os mostrando na tela uma mensagem:
+    O primeiro valor é maior
+    O segundo valor é maior
+    Nao existe numero maior,os dois sao iguais
+
+exercicio 039
+    Faça um programa que leia o ano de nascimento de um jovem e informe de acordo com a sua idade:
+    Se ele ainda vai se alistar ao serviço militar.
+    Se é a hora de se alistar
+    Se ja passou o tempo de listamento
+    O seu programa tambem deve mostrar o tempo que falta, ou o tempo que passou do prazo.
+
+exercicio 040
+    Crie um programa que leia duas notas e calcule a media,mostrando uma mensagem final de acordo com a media obtida:
+    Media abaixo de 5.0 reprovado
+    Media entre 5.0 e 6.9 recuperação
+    media acima de 7.0 aprovado
+
+exercicio 041
+    A confederação Nacional de natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria:
+    Até 9 anos:mirim
+    Até 14 anos infantil
+    Até 19 anos junior
+    até 20 anos senior
+    acima de 20 anos master
+
+exercicio 042
+    Refaça o exercicio 35 de triangulos,acrescentando o recurso de informar que tipo de triangulo sera formado:
+    equilatero: todos os lados iguais
+    Isoceles : dois lados iguais
+    escaleno : todos os lados diferentes
+
+exercicio 043
+    Desenvolva um programa que leia o peso e a altura de uma pessoa,calcule seu imc e mostre o resultado de acordo com a tabela abaixo:
+    Abaixo de 18.5 abaixo do peso
+    Entre 18.5 e 25 peso ideal
+    Entre 25 e 30 sobrepeso
+    Entre 30 e 40 obsidade
+    acima de 40 obsidade morbida
+
+exercicio 044
+    Elabore um programa que calcule um valor a ser pago por um produto considerando seu preço normal e condição de pagamento:
+    A vista dinheiro/check 10% de desconto
+    A vista no cartao debito 5% de desconto
+    Até 2x no cartao credito preço normal
+    3x no cartao creditp 20% de juros
+
+exercicio 045
+    Crie um programa para jogar pedra papel e tesoura
+
+exercicio 046
