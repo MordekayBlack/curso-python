@@ -156,3 +156,25 @@ aula 10                             estrutura de condição
 
 #condição simplificada
 print('Carro novo' if tempo <= 3 else 'Carro velho') => parecido com operador ternario
+
+
+_______________________________________________________________________________________________________________
+                                Color
+\033[code_color m
+\033[m => desfaz a configuração de cor
+\033[0;33;44m => nenhum stylo, fonte ,background
+1° codigo => stylo da fonte => 0 none, 1 negrito ,4 sublinhado ,7 inverte
+2° codigo => cor da fonte => 30 braco, 32 vermelho,32 verde ,33 amarelo,34 azul ,35 roxo,36 azul claro,37 cinza
+3° codigo => background => 40 branco ,41 vermelho , 42 verde , 43 amarelo, 44 azul, 45 roxo, 46 azul claro,47 cinza
+
+# fazendo uma lista de cores para semplificar o uso
+cores = {'limpa': '\033[m',
+        'branca': '\033[30m',
+        'azul' :'\033[34m',
+        'amarelo' : '\033[33m',
+        'pretoBranco' : '\033[7;30m'
+print(f'Ola{cores[amarelo]}mundo{cores[limpa]}'
+
+import colorterminal
+
+print(colorterminal.ColorText.RED + 'Hello' + colorterminal.ColorText.PURPLE + ' World')
