@@ -181,3 +181,38 @@ exercicio 045
     Crie um programa para jogar pedra papel e tesoura
 
 exercicio 046
+    Faça um programa que mostre na tela uma contagem regressiva para estouro de fogos de artificio,indo de 10 ate 0,
+    com uma pausa de 1 segundo entre elas
+
+exercicio 047
+    crie um programa que mostre todos os numeros pares no intervalo de 0 a 50
+
+
+exercicio 048
+    Faça um programa que calcule a soma de todos os numeros ipares,e que são multiplos de 3 ,que se encontram no intervalo
+    de 0 a 500
+
+exercicio 049
+    Refaça o exercicio 09 mostrando a taboada de um numero que o usuario escolher,so que agora ultilizando o for
+
+exercicio 050
+    Desenvolva um programa que leia 6 numeros inteiros e mostre a soma somete daqueles que forem pares,se o valor digitado for impar desconsidere
+
+exercicio 051
+    Desenvolva um programa que leai o primeiro termo e a razao de uma PA,mostre os 10 primeiros termos dessa progressao
+
+exercicio 052
+    Faça um programa que leia um numero inteiro e diga se ele é ou nao um numero primo
+
+exercicio 053
+    Crie um programa que leia uma frase qualquer e diga se ela é um palimedro,desconsiderando os espaços
+
+exercicio 054
+    Crie um programa que leia o ano de nascimento de 7 pessoas,no final mostre quantas pessoas ja atigiram a maioridade e quantas sao menores de idade
+
+exercicio 055
+    Faça um programa que leia o peso de 5 pessoas,no final mostre qual foi o maior e o menor peso lidos
+
+exercicio 056
+    Desenvolva um programa que leia nome,idade e sexo de 5 pessoas, e no final o programa mostre:
+    A media de idade do grupo,qual é o nome do homem mais velho,e quantas mulheres tem menos de 21 anos

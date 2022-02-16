@@ -30,8 +30,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.exercicio-036">
-    <configuration name="exercicio-036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exercicio-050">
+    <configuration name="exercicio-046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,7 +43,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-036.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-046.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +52,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio-041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio-047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-041.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-047.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio-043" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio-048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-043.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-048.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio-044" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio-049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-044.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-049.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercico-040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio-050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercico-040.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-050.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercicio-036" />
-        <item itemvalue="Python.exercicio-044" />
-        <item itemvalue="Python.exercicio-043" />
-        <item itemvalue="Python.exercicio-041" />
-        <item itemvalue="Python.exercico-040" />
+        <item itemvalue="Python.exercicio-050" />
+        <item itemvalue="Python.exercicio-049" />
+        <item itemvalue="Python.exercicio-048" />
+        <item itemvalue="Python.exercicio-047" />
+        <item itemvalue="Python.exercicio-046" />
       </list>
     </recent_temporary>
   </component>

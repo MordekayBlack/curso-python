@@ -4,3 +4,16 @@ if,elif,else
 # Segundo o if pode conter quantos elif forem nescessario
 #elif pode conter um else ou nenhun else
 #else so sera execultado se nenhuma das condiçoes forem atendidas
+
+-----------------------------------------------------------------------------------------------------------------------
+                                        For
+sintaxe for
+for c in range(1,10):
+for c in range(6,0-1) => conta de 6 ate 0
+for c in range(0,10,2) => conta de 0  ate 10 pulando de 2 em 2
+
+#soma
+soma = 0
+for c in range(0,5):
+    n = int(input('Digite um numero))'
+    soma += n #soma todos valores
