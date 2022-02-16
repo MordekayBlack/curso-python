@@ -178,3 +178,11 @@ print(f'Ola{cores[amarelo]}mundo{cores[limpa]}'
 import colorterminal
 
 print(colorterminal.ColorText.RED + 'Hello' + colorterminal.ColorText.PURPLE + ' World')
+
+
+________________________________________________________________________________________________________________________
+                                                    PRINT
+ref:https://cadernoscicomp.com.br/tutorial/introducao-a-programacao-em-python-3/funcoes-print-input-e-o-metodo-format/
+sep 	O valor padrão de sep é um espaço em branco, quando dois ou mais argumentos são passados para a função print sep coloca entre eles um espaço em branco ou um outro valor que podemos passar para sep.
+end 	O valor padrão de end é uma nova linha “\n” e por isso que sempre a função print adiciona uma nova linha depois de imprimir tudo que lhe foi passado, mas, podemos definir outro valor com uma tabulação “\t” por exemplo.
+file 	Este é o padrão que define onde será impresso os argumentos passados para print. Seu valor padrão é definido por sys.stdout, o fluxo de saída padrão que normalm
